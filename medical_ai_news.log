@@ -1,0 +1,614 @@
+2025-05-26 17:50:11,922 INFO: Google AI configured successfully
+2025-05-26 17:50:11,925 INFO: Google Sheets configured successfully
+2025-05-26 17:50:11,926 INFO: Loaded 11 projects from projects.json
+2025-05-26 17:50:11,927 INFO: Starting Medical AI News Collection Process
+2025-05-26 17:50:11,927 INFO: Searching for articles from the last 1 days
+2025-05-26 17:50:11,927 INFO: Fetching articles from NewsAPI.ai...
+2025-05-26 17:50:11,928 INFO: Fetching news for query: AI medical diagnosis OR "AI disease detection"...
+2025-05-26 17:50:13,427 INFO: Found 0 articles for query
+2025-05-26 17:50:13,427 INFO: Fetching news for query: "AI clinical decision support" OR "AI personalized...
+2025-05-26 17:50:13,793 INFO: Found 0 articles for query
+2025-05-26 17:50:13,794 INFO: Fetching news for query: "AI surgical robotics" OR "AI treatment optimizati...
+2025-05-26 17:50:14,767 INFO: Found 0 articles for query
+2025-05-26 17:50:14,767 INFO: Fetching news for query: "AI mental health monitoring" OR "AI wearables hea...
+2025-05-26 17:50:15,755 INFO: Found 0 articles for query
+2025-05-26 17:50:15,755 INFO: Fetching news for query: "AI remote patient monitoring" OR "AI clinical ale...
+2025-05-26 17:50:17,588 INFO: Found 0 articles for query
+2025-05-26 17:50:17,589 INFO: Fetching news for query: "AI healthcare automation" OR "AI patient scheduli...
+2025-05-26 17:50:18,034 INFO: Found 0 articles for query
+2025-05-26 17:50:18,034 INFO: Fetching news for query: "AI medical documentation" OR "AI EMR integration"...
+2025-05-26 17:50:18,919 INFO: Found 0 articles for query
+2025-05-26 17:50:18,919 INFO: Fetching news for query: "AI healthcare interoperability" OR "AI clinical d...
+2025-05-26 17:50:19,902 INFO: Found 0 articles for query
+2025-05-26 17:50:19,903 INFO: Fetching news for query: "AI hospital resource allocation" OR "AI healthcar...
+2025-05-26 17:50:20,949 INFO: Found 0 articles for query
+2025-05-26 17:50:20,950 INFO: Fetching news for query: "AI drug discovery" OR "AI drug development"...
+2025-05-26 17:50:21,908 INFO: Found 0 articles for query
+2025-05-26 17:50:21,909 INFO: Fetching news for query: "AI molecular design" OR "AI clinical trial optimi...
+2025-05-26 17:50:22,901 INFO: Found 0 articles for query
+2025-05-26 17:50:22,902 INFO: Fetching news for query: "AI disease surveillance" OR "AI epidemic modeling...
+2025-05-26 17:50:23,927 INFO: Found 0 articles for query
+2025-05-26 17:50:23,927 INFO: Fetching news for query: "AI population health" OR "AI biomarker discovery"...
+2025-05-26 17:50:24,937 INFO: Found 0 articles for query
+2025-05-26 17:50:24,937 INFO: Fetching news for query: "AI healthcare validation" OR "AI medical models b...
+2025-05-26 17:50:25,967 INFO: Found 0 articles for query
+2025-05-26 17:50:25,968 INFO: Fetching news for query: "AI explainable healthcare" OR "AI interpretable m...
+2025-05-26 17:50:27,017 INFO: Found 0 articles for query
+2025-05-26 17:50:27,017 INFO: Fetching news for query: "AI clinical reasoning" OR "AI healthcare implemen...
+2025-05-26 17:50:35,639 INFO: Google AI configured successfully
+2025-05-26 17:50:35,642 INFO: Google Sheets configured successfully
+2025-05-26 17:50:35,643 INFO: Loaded 11 projects from projects.json
+2025-05-26 17:50:35,643 INFO: Starting Medical AI News Collection Process
+2025-05-26 17:50:35,643 INFO: Searching for articles from the last 3 days
+2025-05-26 17:50:35,643 INFO: Fetching articles from NewsAPI.ai...
+2025-05-26 17:50:35,644 INFO: Fetching news for query: AI medical diagnosis OR "AI disease detection"...
+2025-05-26 17:50:36,709 INFO: Found 0 articles for query
+2025-05-26 17:50:36,709 INFO: Fetching news for query: "AI clinical decision support" OR "AI personalized...
+2025-05-26 17:50:37,056 INFO: Found 0 articles for query
+2025-05-26 17:50:37,057 INFO: Fetching news for query: "AI surgical robotics" OR "AI treatment optimizati...
+2025-05-26 17:50:38,081 INFO: Found 0 articles for query
+2025-05-26 17:50:38,082 INFO: Fetching news for query: "AI mental health monitoring" OR "AI wearables hea...
+2025-05-26 17:50:39,105 INFO: Found 0 articles for query
+2025-05-26 17:50:39,106 INFO: Fetching news for query: "AI remote patient monitoring" OR "AI clinical ale...
+2025-05-26 17:50:40,065 INFO: Found 0 articles for query
+2025-05-26 17:50:40,065 INFO: Fetching news for query: "AI healthcare automation" OR "AI patient scheduli...
+2025-05-26 17:50:41,024 INFO: Found 0 articles for query
+2025-05-26 17:50:41,024 INFO: Fetching news for query: "AI medical documentation" OR "AI EMR integration"...
+2025-05-26 17:57:20,709 INFO: Google AI configured successfully
+2025-05-26 17:57:20,712 INFO: Google Sheets configured successfully
+2025-05-26 17:57:20,713 INFO: Loaded 11 projects from projects.json
+2025-05-26 17:57:20,713 INFO: Starting Medical AI News Collection Process
+2025-05-26 17:57:20,714 INFO: Searching for articles from the last 3 days
+2025-05-26 17:57:20,714 INFO: Fetching articles from NewsAPI.ai...
+2025-05-26 17:57:20,715 INFO: Fetching news for query: AI medical diagnosis OR "AI disease detection"...
+2025-05-26 17:57:21,687 INFO: Found 0 articles for query
+2025-05-26 17:57:21,687 INFO: Fetching news for query: "AI clinical decision support" OR "AI personalized...
+2025-05-26 17:57:22,058 INFO: Found 0 articles for query
+2025-05-26 17:57:22,059 INFO: Fetching news for query: "AI surgical robotics" OR "AI treatment optimizati...
+2025-05-26 17:57:23,043 INFO: Found 0 articles for query
+2025-05-26 17:57:23,043 INFO: Fetching news for query: "AI mental health monitoring" OR "AI wearables hea...
+2025-05-26 17:57:24,076 INFO: Found 0 articles for query
+2025-05-26 17:57:24,076 INFO: Fetching news for query: "AI remote patient monitoring" OR "AI clinical ale...
+2025-05-26 18:01:42,975 INFO: Google AI configured successfully
+2025-05-26 18:01:42,978 INFO: Google Sheets configured successfully
+2025-05-26 18:01:42,979 INFO: Loaded 11 projects from projects.json
+2025-05-26 18:01:42,979 INFO: Starting Medical AI News Collection Process
+2025-05-26 18:01:42,979 INFO: Searching for articles from the last 2 days
+2025-05-26 18:01:42,980 INFO: Fetching articles from NewsAPI.ai...
+2025-05-26 18:01:42,980 INFO: Fetching news for query: AI medical diagnosis...
+2025-05-26 18:01:44,796 INFO: Found 10 articles for query
+2025-05-26 18:01:44,796 INFO: Fetching news for query: AI clinical decision...
+2025-05-26 18:01:45,701 INFO: Found 10 articles for query
+2025-05-26 18:01:45,702 INFO: Fetching news for query: AI surgery...
+2025-05-26 18:01:46,750 INFO: Found 10 articles for query
+2025-05-26 18:01:46,750 INFO: Fetching news for query: AI patient monitoring...
+2025-05-26 18:01:47,266 INFO: Found 10 articles for query
+2025-05-26 18:01:47,267 INFO: Fetching news for query: AI treatment...
+2025-05-26 18:01:48,919 INFO: Found 10 articles for query
+2025-05-26 18:01:48,920 INFO: Fetching news for query: AI healthcare automation...
+2025-05-26 18:01:49,465 INFO: Found 10 articles for query
+2025-05-26 18:01:49,466 INFO: Fetching news for query: AI hospital...
+2025-05-26 18:01:50,371 INFO: Found 10 articles for query
+2025-05-26 18:01:50,372 INFO: Fetching news for query: AI medical records...
+2025-05-26 18:01:51,366 INFO: Found 10 articles for query
+2025-05-26 18:01:51,367 INFO: Fetching news for query: AI healthcare workflow...
+2025-05-26 18:01:52,402 INFO: Found 10 articles for query
+2025-05-26 18:01:52,403 INFO: Fetching news for query: AI drug discovery...
+2025-05-26 18:01:53,830 INFO: Found 10 articles for query
+2025-05-26 18:01:53,831 INFO: Fetching news for query: AI clinical trial...
+2025-05-26 18:01:54,393 INFO: Found 10 articles for query
+2025-05-26 18:01:54,393 INFO: Fetching news for query: AI medical research...
+2025-05-26 18:01:55,406 INFO: Found 10 articles for query
+2025-05-26 18:01:55,407 INFO: Fetching news for query: AI pharmaceutical...
+2025-05-26 18:01:56,365 INFO: Found 10 articles for query
+2025-05-26 18:01:56,366 INFO: Fetching news for query: AI healthcare validation...
+2025-05-26 18:01:57,371 INFO: Found 10 articles for query
+2025-05-26 18:01:57,372 INFO: Fetching news for query: AI medical implementation...
+2025-05-26 18:01:58,412 INFO: Found 10 articles for query
+2025-05-26 18:01:58,413 INFO: Fetching news for query: AI clinical integration...
+2025-05-26 18:01:59,918 INFO: Found 10 articles for query
+2025-05-26 18:01:59,919 INFO: Fetching news for query: AI healthcare ethics...
+2025-05-26 18:02:00,355 INFO: Found 10 articles for query
+2025-05-26 18:02:00,355 INFO: Fetching news for query: AI medical privacy...
+2025-05-26 18:02:01,472 INFO: Found 10 articles for query
+2025-05-26 18:02:01,472 INFO: Fetching news for query: AI healthcare regulation...
+2025-05-26 18:02:02,354 INFO: Found 10 articles for query
+2025-05-26 18:02:02,355 INFO: Fetching news for query: AI medical bias...
+2025-05-26 18:02:03,431 INFO: Found 10 articles for query
+2025-05-26 18:02:03,431 INFO: Fetching news for query: AI medical education...
+2025-05-26 18:02:04,410 INFO: Found 10 articles for query
+2025-05-26 18:02:04,410 INFO: Fetching news for query: AI healthcare training...
+2025-05-26 18:02:05,394 INFO: Found 10 articles for query
+2025-05-26 18:02:05,395 INFO: Fetching news for query: AI medical learning...
+2025-05-26 18:02:06,435 INFO: Found 10 articles for query
+2025-05-26 18:02:06,436 INFO: Fetching news for query: AI medicine...
+2025-05-26 18:02:07,385 INFO: Found 8 articles for query
+2025-05-26 18:02:07,386 INFO: Fetching news for query: AI healthcare...
+2025-05-26 18:02:08,403 INFO: Found 8 articles for query
+2025-05-26 18:02:08,403 INFO: Fetching news for query: medical AI...
+2025-05-26 18:02:09,369 INFO: Found 8 articles for query
+2025-05-26 18:02:09,370 INFO: Fetching news for query: clinical AI...
+2025-05-26 18:02:10,366 INFO: Found 8 articles for query
+2025-05-26 18:02:10,366 INFO: Fetching news for query: healthcare artificial intelligence...
+2025-05-26 18:02:11,371 INFO: Found 8 articles for query
+2025-05-26 18:02:11,373 INFO: Collected 10 unique articles from 270 total
+2025-05-26 18:02:11,374 INFO: Found 10 articles from NewsAPI.ai
+2025-05-26 18:02:14,992 INFO: Created new worksheet for today: 2025-05-26
+2025-05-26 18:02:15,441 INFO: Found 0 existing URLs in the worksheet
+2025-05-26 18:02:15,442 INFO: Processing article 1/10: Three Injured in Boiler Explosion on Bulker in New...
+2025-05-26 18:02:19,939 ERROR: Error generating summary and category: Expecting ',' delimiter: line 8 column 4 (char 542)
+2025-05-26 18:02:19,940 WARNING: Failed to generate summary for article: https://maritime-executive.com/article/three-injured-in-boiler-explosion-on-bulker-in-new-zealand
+2025-05-26 18:02:20,381 INFO: Added article to worksheet: Three Injured in Boiler Explosion on Bulker in New...
+2025-05-26 18:02:20,381 INFO: Processing article 2/10: Soccer-Mac Allister brothers crowned champions on ...
+2025-05-26 18:02:23,767 ERROR: Error generating summary and category: Expecting ',' delimiter: line 8 column 3 (char 487)
+2025-05-26 18:02:23,769 WARNING: Failed to generate summary for article: https://www.dailymail.co.uk/wires/reuters/article-14749541/Mac-Allister-brothers-crowned-champions-day-different-countries.html
+2025-05-26 18:02:24,153 INFO: Added article to worksheet: Soccer-Mac Allister brothers crowned champions on ...
+2025-05-26 18:02:24,154 INFO: Processing article 3/10: MAH MBA CET Result 2025 Soon at cetcell.mahacet.or...
+2025-05-26 18:02:26,672 ERROR: Error generating summary and category: Expecting ',' delimiter: line 8 column 3 (char 541)
+2025-05-26 18:02:26,673 WARNING: Failed to generate summary for article: https://www.republicworld.com/education/mah-mba-cet-result-2025-soon-at-cetcellmahacetorg-here-s-how-to-download-scorecard
+2025-05-26 18:02:27,028 INFO: Added article to worksheet: MAH MBA CET Result 2025 Soon at cetcell.mahacet.or...
+2025-05-26 18:02:27,028 INFO: Processing article 4/10: Clean Recycle: Major Romanian cities investing EUR...
+2025-05-26 18:02:30,270 ERROR: Error generating summary and category: Expecting ',' delimiter: line 8 column 3 (char 748)
+2025-05-26 18:02:30,271 WARNING: Failed to generate summary for article: https://www.romania-insider.com/clean-recycle-romanian-cities-waste-collection-infrastructure-2025
+2025-05-26 18:02:30,622 INFO: Added article to worksheet: Clean Recycle: Major Romanian cities investing EUR...
+2025-05-26 18:02:30,623 INFO: Processing article 5/10: Win a stunning 5 bed house + a VW Tiguan or £500k ...
+2025-05-26 18:02:33,903 ERROR: Error generating summary and category: Expecting ',' delimiter: line 8 column 3 (char 473)
+2025-05-26 18:02:33,904 WARNING: Failed to generate summary for article: https://www.thesun.co.uk/sport/35120440/win-house-7dp/
+2025-05-26 18:02:34,275 INFO: Added article to worksheet: Win a stunning 5 bed house + a VW Tiguan or £500k ...
+2025-05-26 18:02:34,275 INFO: Processing article 6/10: German filmmaker Mascha Schilinski wins Jury Prize...
+2025-05-26 18:12:24,779 INFO: Google AI configured successfully
+2025-05-26 18:12:24,781 INFO: Google Sheets configured successfully
+2025-05-26 18:12:24,783 INFO: Loaded 11 projects from projects.json
+2025-05-26 18:12:24,783 INFO: Starting High-Quality Medical AI News Collection Process
+2025-05-26 18:12:24,784 INFO: Searching for articles from the last 2 days
+2025-05-26 18:12:24,785 INFO: Fetching high-quality medical AI articles...
+2025-05-26 18:12:24,785 INFO: Searching for: artificial intelligence medical diagnosis
+2025-05-26 18:12:27,810 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,811 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,811 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,812 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,812 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,813 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,813 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,814 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,815 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,815 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,816 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,817 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,818 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,818 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,819 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,819 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,820 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,820 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,821 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,822 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:27,822 INFO: Found 0 relevant articles for 'artificial intelligence medical diagnosis'
+2025-05-26 18:12:27,822 INFO: Searching for: AI clinical decision support
+2025-05-26 18:12:32,735 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,736 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,737 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,737 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,737 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,737 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,738 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,738 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,738 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,739 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,739 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,740 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,740 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,740 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,741 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,741 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,742 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,742 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,743 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,743 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:32,743 INFO: Found 0 relevant articles for 'AI clinical decision support'
+2025-05-26 18:12:32,743 INFO: Searching for: machine learning healthcare
+2025-05-26 18:12:33,615 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,615 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,616 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,617 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,617 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,618 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,618 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,618 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,619 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,619 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,619 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,620 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,620 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,621 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,621 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,621 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,621 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,622 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,622 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,622 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:12:33,622 INFO: Found 0 relevant articles for 'machine learning healthcare'
+2025-05-26 18:12:33,623 INFO: Searching for: AI radiology imaging
+2025-05-26 18:16:31,151 INFO: Google AI configured successfully
+2025-05-26 18:16:31,153 INFO: Google Sheets configured successfully
+2025-05-26 18:16:31,155 INFO: Loaded 11 projects from projects.json
+2025-05-26 18:16:31,155 INFO: Starting High-Quality Medical AI News Collection Process
+2025-05-26 18:16:31,156 INFO: Searching for articles from the last 2 days
+2025-05-26 18:16:31,156 INFO: Fetching high-quality medical AI articles...
+2025-05-26 18:16:31,157 INFO: Searching for: artificial intelligence medical diagnosis
+2025-05-26 18:16:33,344 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,345 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,345 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,346 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,346 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,347 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,347 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,348 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,348 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,349 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,349 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,350 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,351 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,351 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,352 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,352 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,353 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,353 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,354 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,355 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:33,355 INFO: Found 0 relevant articles for 'artificial intelligence medical diagnosis'
+2025-05-26 18:16:33,355 INFO: Searching for: AI clinical decision support
+2025-05-26 18:16:34,249 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,250 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,250 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,251 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,251 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,251 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,251 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,252 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,252 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,253 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,253 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,253 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,254 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,254 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,254 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,254 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,255 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,255 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,255 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,256 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:34,256 INFO: Found 0 relevant articles for 'AI clinical decision support'
+2025-05-26 18:16:34,256 INFO: Searching for: machine learning healthcare
+2025-05-26 18:16:35,253 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,254 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,255 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,255 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,256 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,256 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,256 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,257 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,257 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,258 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,258 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,259 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,259 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,259 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,260 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,260 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,260 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,261 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,261 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,261 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:35,261 INFO: Found 0 relevant articles for 'machine learning healthcare'
+2025-05-26 18:16:35,262 INFO: Searching for: AI radiology imaging
+2025-05-26 18:16:36,335 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,335 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,336 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,336 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,337 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,338 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,338 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,339 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,339 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,340 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,340 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,341 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,341 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,342 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,342 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,343 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,343 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,344 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,344 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,344 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:36,344 INFO: Found 0 relevant articles for 'AI radiology imaging'
+2025-05-26 18:16:36,345 INFO: Searching for: AI surgical robotics
+2025-05-26 18:16:37,735 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,735 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,736 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,737 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,737 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,738 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,738 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,739 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,739 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,740 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,740 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,740 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,741 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,741 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,742 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,742 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,743 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,743 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,744 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,744 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:37,744 INFO: Found 0 relevant articles for 'AI surgical robotics'
+2025-05-26 18:16:37,744 INFO: Searching for: AI drug discovery
+2025-05-26 18:16:38,267 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,268 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,268 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,269 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,269 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,270 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,270 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,270 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,271 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,271 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,271 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,272 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,272 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,273 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,273 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,273 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,274 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,274 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,275 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,275 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:16:38,275 INFO: Found 0 relevant articles for 'AI drug discovery'
+2025-05-26 18:16:38,276 INFO: Searching for: AI clinical trials
+2025-05-26 18:17:02,896 INFO: Google AI configured successfully
+2025-05-26 18:17:02,898 INFO: Google Sheets configured successfully
+2025-05-26 18:17:02,898 INFO: Loaded 11 projects from projects.json
+2025-05-26 18:17:02,899 INFO: Starting High-Quality Medical AI News Collection Process
+2025-05-26 18:17:02,899 INFO: Searching for articles from the last 2 days
+2025-05-26 18:17:02,899 INFO: Fetching high-quality medical AI articles...
+2025-05-26 18:17:02,899 INFO: Searching for: artificial intelligence medical diagnosis
+2025-05-26 18:17:04,294 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,295 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,296 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,296 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,297 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,297 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,298 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,298 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,299 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,299 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,300 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,301 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,301 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,301 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,302 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,302 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,303 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,303 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,303 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,304 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,304 INFO: Found 0 relevant articles for 'artificial intelligence medical diagnosis'
+2025-05-26 18:17:04,304 INFO: Searching for: AI clinical decision support
+2025-05-26 18:17:04,777 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,778 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,779 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,779 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,781 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,781 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,782 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,782 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,783 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,783 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,784 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,784 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,785 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,785 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,785 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,785 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,786 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,786 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,786 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,787 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:04,787 INFO: Found 0 relevant articles for 'AI clinical decision support'
+2025-05-26 18:17:04,787 INFO: Searching for: machine learning healthcare
+2025-05-26 18:17:05,730 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,731 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,731 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,732 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,732 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,732 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,733 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,733 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,733 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,734 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,734 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,734 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,735 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,735 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,735 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,735 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,736 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,736 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,736 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,737 WARNING: Error parsing article: 'NewsAPICollector' object has no attribute '_calculate_recency_score'
+2025-05-26 18:17:05,737 INFO: Found 0 relevant articles for 'machine learning healthcare'
+2025-05-26 18:17:05,737 INFO: Searching for: AI radiology imaging
+2025-05-26 18:23:57,800 INFO: Google AI configured successfully
+2025-05-26 18:23:57,803 INFO: Google Sheets configured successfully
+2025-05-26 18:23:57,805 INFO: Loaded 11 projects from projects.json
+2025-05-26 18:23:57,805 INFO: Starting Medical AI News Collection
+2025-05-26 18:23:57,806 INFO: Searching last 2 days
+2025-05-26 18:23:57,807 INFO: Fetching medical AI articles...
+2025-05-26 18:23:57,808 INFO: Searching for: medgemma google
+2025-05-26 18:23:59,086 INFO: Found 0 relevant articles for 'medgemma google'
+2025-05-26 18:23:59,087 INFO: Searching for: medical AI breakthrough
+2025-05-26 18:23:59,671 INFO: Found 0 relevant articles for 'medical AI breakthrough'
+2025-05-26 18:23:59,672 INFO: Searching for: FDA AI medical device
+2025-05-26 18:24:00,463 INFO: Found 0 relevant articles for 'FDA AI medical device'
+2025-05-26 18:24:00,464 INFO: Searching for: AI clinical trial
+2025-05-26 18:24:01,558 INFO: Found 0 relevant articles for 'AI clinical trial'
+2025-05-26 18:24:01,558 INFO: Searching for: AI drug discovery
+2025-05-26 18:24:02,839 INFO: Found 6 relevant articles for 'AI drug discovery'
+2025-05-26 18:24:02,840 INFO: Searching for: artificial intelligence medicine
+2025-05-26 18:24:03,521 INFO: Found 0 relevant articles for 'artificial intelligence medicine'
+2025-05-26 18:24:03,522 INFO: Searching for: AI healthcare
+2025-05-26 18:24:04,862 INFO: Found 8 relevant articles for 'AI healthcare'
+2025-05-26 18:24:04,862 INFO: Searching for: machine learning medical
+2025-05-26 18:24:05,427 INFO: Found 0 relevant articles for 'machine learning medical'
+2025-05-26 18:24:05,427 INFO: Searching for: AI diagnosis
+2025-05-26 18:24:06,469 INFO: Found 3 relevant articles for 'AI diagnosis'
+2025-05-26 18:24:06,469 INFO: Searching for: AI radiology
+2025-05-26 18:24:07,473 INFO: Found 1 relevant articles for 'AI radiology'
+2025-05-26 18:24:07,474 INFO: Searching for: google medical AI
+2025-05-26 18:24:08,450 INFO: Found 0 relevant articles for 'google medical AI'
+2025-05-26 18:24:08,450 INFO: Searching for: microsoft healthcare AI
+2025-05-26 18:24:09,436 INFO: Found 0 relevant articles for 'microsoft healthcare AI'
+2025-05-26 18:24:09,437 INFO: Searching for: nvidia medical AI
+2025-05-26 18:24:10,437 INFO: Found 0 relevant articles for 'nvidia medical AI'
+2025-05-26 18:24:10,438 INFO: Searching for: openai healthcare
+2025-05-26 18:24:11,447 INFO: Found 0 relevant articles for 'openai healthcare'
+2025-05-26 18:24:11,447 INFO: Searching for: AI surgical robot
+2025-05-26 18:24:12,452 INFO: Found 0 relevant articles for 'AI surgical robot'
+2025-05-26 18:24:12,453 INFO: Searching for: AI pathology
+2025-05-26 18:24:13,588 INFO: Found 1 relevant articles for 'AI pathology'
+2025-05-26 18:24:13,589 INFO: Searching for: AI electronic health records
+2025-05-26 18:24:14,618 INFO: Found 0 relevant articles for 'AI electronic health records'
+2025-05-26 18:24:14,619 INFO: Searching for: AI clinical decision support
+2025-05-26 18:24:15,450 INFO: Found 0 relevant articles for 'AI clinical decision support'
+2025-05-26 18:24:15,451 INFO: Searching for: AI medical imaging
+2025-05-26 18:24:16,496 INFO: Found 0 relevant articles for 'AI medical imaging'
+2025-05-26 18:24:16,497 INFO: Final selection: 18 articles from 19 total
+2025-05-26 18:24:16,497 INFO: Quality metrics - Relevance: 0.61, Recency: 0.78, Combined: 0.66
+2025-05-26 18:24:16,498 INFO: Recent articles (<24h): 14/18
+2025-05-26 18:24:16,498 INFO: Found 18 articles
+2025-05-26 18:24:18,527 INFO: Opened existing worksheet: 2025-05-26
+2025-05-26 18:24:19,050 INFO: Found 5 existing URLs
+2025-05-26 18:24:19,051 INFO: Processing 1/18: Singapore looks at applying agentic AI in healthca... (score: 1.00)
+2025-05-26 18:24:30,207 INFO: Processing 2/18: Mint Primer: Dr AI is here, but will the human tou... (score: 0.94)
+2025-05-26 18:24:36,627 INFO: Processing 3/18: AI Is Transforming Clinical Diagnosis, Treatment a... (score: 0.93)
+2025-05-26 18:24:53,101 INFO: Processing 4/18: First AI-generated drugs may reach market by 2030:... (score: 0.82)
+2025-05-26 18:24:58,733 INFO: Processing 5/18: Equitable medical access through smart technology... (score: 0.80)
+2025-05-26 18:25:05,457 ERROR: Error generating summary: Expecting ',' delimiter: line 7 column 3 (char 505)
+2025-05-26 18:25:05,457 WARNING: Failed to categorize: https://www.chinadaily.com.cn/a/202505/26/WS6833a615a310a04af22c166b.html
+2025-05-26 18:25:05,865 INFO: Processing 6/18: Pioneering Precision: How South Korea's Galux is R... (score: 0.72)
+2025-05-26 18:25:12,361 ERROR: Error generating summary: Expecting ',' delimiter: line 7 column 3 (char 497)
+2025-05-26 18:25:12,361 WARNING: Failed to categorize: https://www.koreatechdesk.com/pioneering-precision-how-south-koreas-galux-is-redefining-antibody-discovery-with-ai/
+2025-05-26 18:25:12,757 INFO: Processing 7/18: Designing the Future of Healthcare AI Through Stra... (score: 0.67)
+2025-05-26 18:25:21,261 INFO: Processing 8/18: Brilliantly Mapping AI In Healthcare | Tech Biz We... (score: 0.67)
+2025-05-26 18:25:28,990 INFO: Processing 9/18: Weekly Watch - AAPL | NVDA | ELV | TSLA for NASDAQ... (score: 0.66)
+2025-05-26 18:25:35,448 WARNING: Failed to categorize: https://www.tradingview.com/chart/AAPL/rsmeRgUk-Weekly-Watch-AAPL-NVDA-ELV-TSLA/
+2025-05-26 18:25:35,945 INFO: Processing 10/18: IQVIA's SWOT analysis: healthcare data giant faces... (score: 0.59)
+2025-05-26 18:25:43,631 ERROR: Error generating summary: Expecting ',' delimiter: line 7 column 3 (char 476)
+2025-05-26 18:25:43,632 WARNING: Failed to categorize: https://za.investing.com/news/swot-analysis/iqvias-swot-analysis-healthcare-data-giant-faces-industry-headwinds-93CH-3727744
+2025-05-26 18:25:44,028 INFO: Processing 11/18: IQVIA's SWOT analysis: healthcare data giant faces... (score: 0.59)
+2025-05-26 18:25:54,628 ERROR: Error generating summary: Expecting ',' delimiter: line 8 column 4 (char 517)
+2025-05-26 18:25:54,629 WARNING: Failed to categorize: https://in.investing.com/news/swot-analysis/iqvias-swot-analysis-healthcare-data-giant-faces-industry-headwinds-93CH-4846708
+2025-05-26 18:25:55,049 INFO: Processing 12/18: IQVIA's SWOT analysis: healthcare data giant faces... (score: 0.59)
+2025-05-26 18:26:01,053 INFO: Processing 13/18: IQVIA's SWOT analysis: healthcare data giant faces... (score: 0.59)
+2025-05-26 18:26:08,200 INFO: Processing 14/18: Bright path ahead for AI and public wellness... (score: 0.59)
+2025-05-26 18:26:22,557 ERROR: Error generating summary: Expecting ',' delimiter: line 7 column 3 (char 612)
+2025-05-26 18:26:22,557 WARNING: Failed to categorize: https://www.chinadaily.com.cn/a/202505/26/WS6833a4efa310a04af22c1659.html
+2025-05-26 18:26:22,953 INFO: Processing 15/18: AI transforming healthcare: conference... (score: 0.59)
+2025-05-26 18:26:35,905 INFO: Processing 16/18: 'AI boosts accuracy in thyroid care' | Lucknow New... (score: 0.45)
+2025-05-26 18:26:42,459 INFO: Processing 17/18: New care pathways for supporting transitional care... (score: 0.38)
+2025-05-26 18:26:55,073 INFO: Processing 18/18: Xai770k Secrets Revealed: How To Unlock Its Full P... (score: 0.32)
+2025-05-26 18:27:06,861 INFO: Successfully processed 18 articles
+2025-05-26 18:27:06,862 INFO: Process completed. Added 18 articles.
+2025-05-26 19:21:51,110 INFO: Google AI configured successfully
+2025-05-26 19:21:51,113 INFO: Google Sheets configured successfully
+2025-05-26 19:21:51,115 INFO: Loaded 11 projects from projects.json
+2025-05-26 19:21:51,115 INFO: Starting OPTIMIZED Medical AI News Collection
+2025-05-26 19:21:51,116 INFO: Using 8 proven high-yield search terms
+2025-05-26 19:21:51,116 INFO: Searching last 2 days
+2025-05-26 19:21:51,117 INFO: Fetching medical AI articles...
+2025-05-26 19:21:51,118 INFO: OPTIMIZED SEARCH: Using 8 high-yield queries (reduced from 19)
+2025-05-26 19:21:51,119 INFO: Expected cost reduction: ~57% fewer API calls
+2025-05-26 19:21:51,120 INFO: Searching for: AI healthcare
+2025-05-26 19:21:52,875 INFO: Found 9 relevant articles for 'AI healthcare' (API call 1/8)
+2025-05-26 19:21:52,876 INFO: Searching for: AI drug discovery
+2025-05-26 19:21:53,313 INFO: Found 7 relevant articles for 'AI drug discovery' (API call 2/8)
+2025-05-26 19:21:53,314 INFO: Searching for: AI diagnosis
+2025-05-26 19:21:54,310 INFO: Found 3 relevant articles for 'AI diagnosis' (API call 3/8)
+2025-05-26 19:21:54,310 INFO: Searching for: AI radiology
+2025-05-26 19:21:55,209 INFO: Found 1 relevant articles for 'AI radiology' (API call 4/8)
+2025-05-26 19:21:55,209 INFO: Searching for: AI pathology
+2025-05-26 19:21:56,288 INFO: Found 1 relevant articles for 'AI pathology' (API call 5/8)
+2025-05-26 19:21:56,289 INFO: Searching for: AI surgery
+2025-05-26 19:21:57,290 INFO: Found 0 relevant articles for 'AI surgery' (API call 6/8)
+2025-05-26 19:21:57,291 INFO: Searching for: clinical AI
+2025-05-26 19:21:58,262 INFO: Found 1 relevant articles for 'clinical AI' (API call 7/8)
+2025-05-26 19:21:58,263 INFO: Searching for: medical artificial intelligence
+2025-05-26 19:21:59,231 INFO: Found 0 relevant articles for 'medical artificial intelligence' (API call 8/8)
+2025-05-26 19:21:59,232 INFO: OPTIMIZATION RESULTS: 21 articles from 22 total using 8 API calls
+2025-05-26 19:21:59,232 INFO: Previous approach would have used 19 API calls - saved 11 calls (58% reduction)
+2025-05-26 19:21:59,233 INFO: Quality metrics - Relevance: 0.57, Recency: 0.80, Combined: 0.64
+2025-05-26 19:21:59,234 INFO: Recent articles (<24h): 17/21
+2025-05-26 19:21:59,234 INFO: Found 21 articles
+2025-05-26 19:22:02,755 INFO: Created new worksheet: 2025-05-26
+2025-05-26 19:22:03,060 INFO: Found 0 existing URLs
+2025-05-26 19:22:03,061 INFO: Processing 1/21: Singapore looks at applying agentic AI in healthca... (score: 1.00)
+2025-05-26 19:22:11,149 INFO: ADDED: Singapore looks at applying agentic AI in healthca... (rel: 1.00, rec: 1.00)
+2025-05-26 19:22:11,149 INFO: Processing 2/21: Mint Primer: Dr AI is here, but will the human tou... (score: 0.94)
+2025-05-26 19:22:15,395 ERROR: Error generating summary: Expecting ',' delimiter: line 7 column 3 (char 553)
+2025-05-26 19:22:15,396 WARNING: Failed to categorize: https://www.livemint.com/technology/clinic-with-ai-doctors-future-of-hybrid-healthcare-synyi-ai-shanghai-saudi-arabia-diagnosis-treatment-11748188225574.html
+2025-05-26 19:22:15,758 INFO: ADDED: Mint Primer: Dr AI is here, but will the human tou... (rel: 1.00, rec: 0.80)
+2025-05-26 19:22:15,759 INFO: Processing 3/21: AI Is Transforming Clinical Diagnosis, Treatment a... (score: 0.93)
+2025-05-26 19:22:28,118 INFO: ADDED: AI Is Transforming Clinical Diagnosis, Treatment a... (rel: 0.90, rec: 1.00)
+2025-05-26 19:22:28,119 INFO: Processing 4/21: First AI-generated drugs may reach market by 2030:... (score: 0.82)
+2025-05-26 19:22:32,705 INFO: ADDED: First AI-generated drugs may reach market by 2030:... (rel: 1.00, rec: 0.40)
+2025-05-26 19:22:32,705 INFO: Processing 5/21: Equitable medical access through smart technology... (score: 0.80)
+2025-05-26 19:22:39,569 INFO: ADDED: Equitable medical access through smart technology... (rel: 0.80, rec: 0.80)
+2025-05-26 19:22:39,570 INFO: Processing 6/21: Pioneering Precision: How South Korea's Galux is R... (score: 0.72)
+2025-05-26 19:22:44,313 ERROR: Error generating summary: Expecting ',' delimiter: line 7 column 3 (char 405)
+2025-05-26 19:22:44,313 WARNING: Failed to categorize: https://www.koreatechdesk.com/pioneering-precision-how-south-koreas-galux-is-redefining-antibody-discovery-with-ai/
+2025-05-26 19:22:44,645 INFO: ADDED: Pioneering Precision: How South Korea's Galux is R... (rel: 0.60, rec: 1.00)
+2025-05-26 19:22:44,645 INFO: Processing 7/21: Designing the Future of Healthcare AI Through Stra... (score: 0.67)
+2025-05-26 19:22:53,372 ERROR: Error generating summary: Expecting ',' delimiter: line 7 column 3 (char 448)
+2025-05-26 19:22:53,373 WARNING: Failed to categorize: https://www.ibtimes.co.in/designing-future-healthcare-ai-through-strategic-data-engineering-883583
+2025-05-26 19:22:53,744 INFO: ADDED: Designing the Future of Healthcare AI Through Stra... (rel: 0.70, rec: 0.60)
+2025-05-26 19:22:53,744 INFO: Processing 8/21: Brilliantly Mapping AI In Healthcare | Tech Biz We... (score: 0.67)
+2025-05-26 19:22:59,473 INFO: ADDED: Brilliantly Mapping AI In Healthcare | Tech Biz We... (rel: 0.70, rec: 0.60)
+2025-05-26 19:22:59,474 INFO: Processing 9/21: Weekly Watch - AAPL | NVDA | ELV | TSLA for NASDAQ... (score: 0.66)
+2025-05-26 19:23:13,708 INFO: ADDED: Weekly Watch - AAPL | NVDA | ELV | TSLA for NASDAQ... (rel: 0.60, rec: 0.80)
+2025-05-26 19:23:13,708 INFO: Processing 10/21: New Mountain Capital Forms Smarter Technologies By... (score: 0.66)
+2025-05-26 19:23:19,542 INFO: ADDED: New Mountain Capital Forms Smarter Technologies By... (rel: 0.60, rec: 0.80)
+2025-05-26 19:23:19,543 INFO: Processing 11/21: Bright path ahead for AI and public wellness... (score: 0.59)
+2025-05-26 19:23:34,291 ERROR: Error generating summary: Expecting ',' delimiter: line 10 column 4 (char 869)
+2025-05-26 19:23:34,292 WARNING: Failed to categorize: https://www.chinadaily.com.cn/a/202505/26/WS6833a4efa310a04af22c1659.html
+2025-05-26 19:23:34,659 INFO: ADDED: Bright path ahead for AI and public wellness... (rel: 0.50, rec: 0.80)
+2025-05-26 19:23:34,660 INFO: Processing 12/21: AI transforming healthcare: conference... (score: 0.59)
+2025-05-26 19:23:42,707 INFO: ADDED: AI transforming healthcare: conference... (rel: 0.50, rec: 0.80)
+2025-05-26 19:23:42,707 INFO: Processing 13/21: IQVIA's SWOT analysis: healthcare data giant faces... (score: 0.59)
+2025-05-26 19:23:47,545 ERROR: Error generating summary: Expecting ',' delimiter: line 7 column 3 (char 618)
+2025-05-26 19:23:47,546 WARNING: Failed to categorize: https://za.investing.com/news/swot-analysis/iqvias-swot-analysis-healthcare-data-giant-faces-industry-headwinds-93CH-3727744
+2025-05-26 19:23:47,897 INFO: ADDED: IQVIA's SWOT analysis: healthcare data giant faces... (rel: 0.50, rec: 0.80)
+2025-05-26 19:23:47,899 INFO: Processing 14/21: IQVIA's SWOT analysis: healthcare data giant faces... (score: 0.59)
+2025-05-26 19:23:58,038 INFO: ADDED: IQVIA's SWOT analysis: healthcare data giant faces... (rel: 0.50, rec: 0.80)
+2025-05-26 19:23:58,039 INFO: Processing 15/21: IQVIA's SWOT analysis: healthcare data giant faces... (score: 0.59)
+2025-05-26 19:24:08,373 INFO: ADDED: IQVIA's SWOT analysis: healthcare data giant faces... (rel: 0.50, rec: 0.80)
+2025-05-26 19:24:08,373 INFO: Processing 16/21: IQVIA's SWOT analysis: healthcare data giant faces... (score: 0.59)
+2025-05-26 19:24:15,294 INFO: ADDED: IQVIA's SWOT analysis: healthcare data giant faces... (rel: 0.50, rec: 0.80)
+2025-05-26 19:24:15,294 INFO: Processing 17/21: 'AI boosts accuracy in thyroid care' | Lucknow New... (score: 0.45)
+2025-05-26 19:24:20,757 INFO: ADDED: 'AI boosts accuracy in thyroid care' | Lucknow New... (rel: 0.30, rec: 0.80)
+2025-05-26 19:24:20,758 INFO: Processing 18/21: Cathie Wood Reiterates 'Profound' AI Application I... (score: 0.44)
+2025-05-26 19:24:24,906 INFO: ADDED: Cathie Wood Reiterates 'Profound' AI Application I... (rel: 0.20, rec: 1.00)
+2025-05-26 19:24:24,907 INFO: Processing 19/21: Nilesh Jasani: Get set for a world of ever-evolvin... (score: 0.44)
+2025-05-26 19:24:29,909 ERROR: Error generating summary: Expecting ',' delimiter: line 7 column 3 (char 499)
+2025-05-26 19:24:29,910 WARNING: Failed to categorize: https://www.livemint.com/opinion/online-views/ai-chatbot-agentic-artificial-intelligence-absci-recursion-phenomics-wodehouse-synthetic-biology-genai-openai-chatgpt-11748158388413.html
+2025-05-26 19:24:30,275 INFO: ADDED: Nilesh Jasani: Get set for a world of ever-evolvin... (rel: 0.20, rec: 1.00)
+2025-05-26 19:24:30,275 INFO: Processing 20/21: New care pathways for supporting transitional care... (score: 0.38)
+2025-05-26 19:24:41,234 ERROR: Error generating summary: Expecting ',' delimiter: line 7 column 3 (char 436)
+2025-05-26 19:24:41,235 WARNING: Failed to categorize: https://www.nature.com/articles/s41598-025-03332-w
+2025-05-26 19:24:41,572 INFO: ADDED: New care pathways for supporting transitional care... (rel: 0.20, rec: 0.80)
+2025-05-26 19:24:41,573 INFO: Processing 21/21: Xai770k Secrets Revealed: How To Unlock Its Full P... (score: 0.32)
+2025-05-26 19:25:00,751 INFO: ADDED: Xai770k Secrets Revealed: How To Unlock Its Full P... (rel: 0.20, rec: 0.60)
+2025-05-26 19:25:00,752 INFO: Successfully processed 21 articles
+2025-05-26 19:25:00,753 INFO: OPTIMIZATION SUCCESS: Added 21 articles with 8 API calls instead of 19.
